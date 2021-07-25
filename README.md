@@ -1,2 +1,2 @@
 # SQL
-SQL learning
+### 用于记录SQL学习笔记
